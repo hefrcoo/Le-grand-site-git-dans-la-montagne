@@ -1,1 +1,18 @@
-'' 
+/* styles.css */
+
+/* Style pour le titre */
+h1 {
+    color: red; /* Couleur rouge */
+    font-size: 2em; /* Taille de police 2 fois la taille normale */
+}
+
+/* Style pour le paragraphe */
+p {
+    color: black; /* Couleur noire */
+}
+
+/* Style pour le titre de la page (dans la balise title) */
+title {
+    color: blue; /* Couleur bleue */
+}
+
