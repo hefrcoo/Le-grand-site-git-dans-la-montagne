@@ -1,18 +1,45 @@
 /* styles.css */
 
-/* Style pour le titre */
-h1 {
-    color: red; /* Couleur rouge */
-    font-size: 2em; /* Taille de police 2 fois la taille normale */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
-/* Style pour le paragraphe */
-p {
-    color: black; /* Couleur noire */
+header {
+    background-color: #4285f4;
+    color: white;
+    text-align: center;
+    padding: 10px;
 }
 
-/* Style pour le titre de la page (dans la balise title) */
-title {
-    color: blue; /* Couleur bleue */
+h1, h2 {
+    color: #4285f4;
 }
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li::before {
+    content: '•';
+    color: #4285f4;
+    margin-right: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #4285f4;
+    color: white;
+}
+
 
