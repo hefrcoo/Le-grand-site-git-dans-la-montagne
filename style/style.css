@@ -69,8 +69,8 @@ header {
 }
 
 /* Style spécifique pour le logo Efrei dans la nav */
-nav img {
-    width: 150px; /* Ajustez la largeur selon vos besoins */
+img {
+    width: 200px; /* Ajustez la largeur selon vos besoins */
     height: auto; /* Permet de conserver les proportions originales de l'image */
 }
 
@@ -111,4 +111,6 @@ footer a:hover {
     color: purple; /* Remplacez #0000ff par le code couleur de votre choix au survol (par exemple, bleu) */
     text-decoration: underline; /* Ajoute un soulignement au survol du lien */
 }
+
+
 
