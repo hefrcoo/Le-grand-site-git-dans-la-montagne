@@ -57,16 +57,8 @@ li::before {
     margin-right: 5px;
 }
 
-footer {
-    text-align: center;
-    margin-top: 50px;
-    padding: 10px;
-    background-color: #4285f4;
-    color: white;
-}
-
 a:hover {
-    color: #e0e0e0;
+    color: red;
 }
 
 /* Ajoutez une bordure noire en haut et en bas du header */
@@ -98,7 +90,7 @@ nav a {
 footer {
     text-align: center; /* Centre le texte dans le pied de page */
     padding: 10px; /* Ajoute une marge intérieure pour un meilleur aspect */
-    background-color: white; /* Fond noir pour le pied de page */
+    background-color: blue; /* Fond noir pour le pied de page */
     color: white; /* Couleur du texte */
 }
 }
@@ -107,5 +99,16 @@ footer {
 header #RENCONTREZ-NOUS {
     background-color: black; /* Fond noir pour la section "RENCONTREZ-NOUS" */
     color: white; /* Couleur du texte */
+}
+/* Style pour le lien dans le pied de page */
+footer a {
+    color: white; /* Remplacez #ff0000 par le code couleur de votre choix (par exemple, rouge) */
+    text-decoration: none; /* Supprime les soulignements des liens */
+}
+
+/* Style pour le lien au survol dans le pied de page */
+footer a:hover {
+    color: purple; /* Remplacez #0000ff par le code couleur de votre choix au survol (par exemple, bleu) */
+    text-decoration: underline; /* Ajoute un soulignement au survol du lien */
 }
 
