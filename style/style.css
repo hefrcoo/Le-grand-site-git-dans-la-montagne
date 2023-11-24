@@ -39,8 +39,10 @@ section {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-
-h1, h2 {
+h1 {
+	color : white;
+}
+h2 {
     color: #4285f4;
 }
 
@@ -65,5 +67,45 @@ footer {
 
 a:hover {
     color: #e0e0e0;
+}
+
+/* Ajoutez une bordure noire en haut et en bas du header */
+header {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    padding: 10px; /* Ajoute une marge intérieure pour un meilleur aspect */
+}
+
+/* Style spécifique pour le logo Efrei dans la nav */
+nav img {
+    width: 150px; /* Ajustez la largeur selon vos besoins */
+    height: auto; /* Permet de conserver les proportions originales de l'image */
+}
+
+/* Style pour les liens dans la nav */
+nav a {
+    text-decoration: none; /* Supprime les soulignements des liens */
+    color: white; /* Couleur du texte */
+    margin: 0 10px; /* Ajoute une marge à gauche et à droite pour un meilleur espacement */
+}
+
+/* Style pour la section "RENCONTREZ-NOUS" dans le header */
+#RENCONTREZ-NOUS {
+    color: white; /* Couleur du texte */
+}
+
+/* Style pour le pied de page */
+footer {
+    text-align: center; /* Centre le texte dans le pied de page */
+    padding: 10px; /* Ajoute une marge intérieure pour un meilleur aspect */
+    background-color: white; /* Fond noir pour le pied de page */
+    color: white; /* Couleur du texte */
+}
+}
+
+/* Style pour la section "RENCONTREZ-NOUS" dans le header */
+header #RENCONTREZ-NOUS {
+    background-color: black; /* Fond noir pour la section "RENCONTREZ-NOUS" */
+    color: white; /* Couleur du texte */
 }
 
