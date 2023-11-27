@@ -1,3 +1,4 @@
+
 # Projet GIT
 Voici le repositoire GIT, de notre projet de site pour notre cours de GIT
 
@@ -57,3 +58,4 @@ echo "$commit_message" > "$1"
 ```
 ---
 
+>>>>>>> prod
