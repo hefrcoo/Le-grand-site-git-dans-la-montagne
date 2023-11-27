@@ -27,7 +27,7 @@ Donnez une vue d'ensemble de la structure de votre site. Par exemple :
 
 - **Index** : La page d'accueil du site.
 - **Page 1** : Description d'Adrien.
-- **Page 2** : Description d'Arthur.
+- **Page 2** :Je souhaite partager un projet open source fascinant : Lutris, un émulateur qui permet aux amateurs de jeux sur Linux, notamment ceux utilisant Ubuntu, de profiter de leurs titres préférés. L'objectif est d'offrir une expérience de jeu fluide sur cet OS, élargissant ainsi les possibilités de divertissement numérique sous Linux.
   ![screenshot](image/arthur.png)
 - **Page 3** : Description de Mathias.
 - **Page 4** : Description d'Hugo.
