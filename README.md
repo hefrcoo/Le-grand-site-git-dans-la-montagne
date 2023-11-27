@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-# Bienvenue!
 
-Ce site se sépare en 5 pages :
-- La page index qui sert de sommaire
-- Une page par étudiant sur le projet
-
-![screenshot](image/image.png)
 =======
 # Projet GIT
 Voici le repositoire GIT, de notre projet de site pour notre cours de GIT
