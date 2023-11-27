@@ -18,7 +18,7 @@ Voici le repositoire GIT, de notre projet de site pour notre cours de GIT
 
 Il s'agit d'un site internet décrivant chacune des personne ayant travaillé sur ce projet.
 
-##INDEX
+## INDEX
 
 Voici l'index de l'équipes
 
