@@ -60,6 +60,3 @@ commit_message=$(generate_commit_message)
 # Écrire le message de commit dans le fichier
 echo "$commit_message" > "$1"
 ```
----
-
->>>>>>> prod
