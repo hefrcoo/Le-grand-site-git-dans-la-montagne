@@ -9,14 +9,20 @@ Voici le repositoire GIT, de notre projet de site pour notre cours de GIT
 - [Projet GIT](#projet-git)
   - [Table des Matières](#table-des-matières)
   - [À Propos du Projet](#à-propos-du-projet)
+  - [Index](#index)
   - [Fonctionnalités](#fonctionnalités)
   - [Structure du Site](#structure-du-site)
-  - [Lien](#lien)
   - [Hook](#hook)
 
 ## À Propos du Projet
 
 Il s'agit d'un site internet décrivant chacune des personne ayant travaillé sur ce projet.
+
+## INDEX
+
+Voici l'index de l'équipes
+
+![screenshot](image/index.png)
 
 ## Fonctionnalités
 
@@ -33,9 +39,7 @@ Donnez une vue d'ensemble de la structure de votre site. Par exemple :
 - **Page 3** : Description de Mathias.
 - **Page 4** : Description d'Hugo.
 
-## Lien
 
-Pas disponible pour le moment
 
 ## Hook
 
