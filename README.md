@@ -36,7 +36,8 @@ Donnez une vue d'ensemble de la structure de votre site. Par exemple :
 - **Page 1** : Description d'Adrien.
 - **Page 2** :Je souhaite partager un projet open source fascinant : Lutris, un émulateur qui permet aux amateurs de jeux sur Linux, notamment ceux utilisant Ubuntu, de profiter de leurs titres préférés. L'objectif est d'offrir une expérience de jeu fluide sur cet OS, élargissant ainsi les possibilités de divertissement numérique sous Linux.
   ![screenshot](image/arthur.png)
-- **Page 3** : Description de Mathias.
+- **Page 3** :MAME, c'est bien plus qu'un émulateur de jeux d'arcade. En tant que passionné, je le vois comme une initiative incroyable pour préserver notre patrimoine vidéoludique. Il émule avec précision les jeux, mais aussi la technologie des machines, offrant une expérience authentique. Avec sa compatibilité étendue, il couvre des classiques des années 70 aux titres récents des années 2000. MAME n'est pas juste pour le fun, c'est aussi une ressource éducative qui documente l'histoire technique des jeux. Mais attention, pour rester légal, utilisez uniquement des ROMs de jeux que vous possédez légalement.
+  ![screenshot](image/mathias.png)
 - **Page 4** : Description d'Hugo.
 
 
