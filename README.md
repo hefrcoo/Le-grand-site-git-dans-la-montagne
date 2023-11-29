@@ -38,7 +38,8 @@ Donnez une vue d'ensemble de la structure de votre site. Par exemple :
   ![screenshot](image/arthur.png)
 - **Page 3** :MAME, c'est bien plus qu'un émulateur de jeux d'arcade. En tant que passionné, je le vois comme une initiative incroyable pour préserver notre patrimoine vidéoludique. Il émule avec précision les jeux, mais aussi la technologie des machines, offrant une expérience authentique. Avec sa compatibilité étendue, il couvre des classiques des années 70 aux titres récents des années 2000. MAME n'est pas juste pour le fun, c'est aussi une ressource éducative qui documente l'histoire technique des jeux. Mais attention, pour rester légal, utilisez uniquement des ROMs de jeux que vous possédez légalement.
   ![screenshot](image/mathias.png)
-- **Page 4** : Description d'Hugo.
+- **Page 4** :Metasploit, projet open source de renom, offre un cadre d'exploitation de tests de pénétration pour les professionnels de la sécurité. Grâce à une communauté active, il propose des outils puissants, des modules préconçus et une personnalisation avancée, simplifiant l'évaluation des systèmes informatiques. Cette plateforme modulaire, essentielle pour le développement et la validation des défenses numériques, incarne l'esprit collaboratif de la cybersécurité, favorisant la transparence et l'échange d'expertise pour renforcer la résilience numérique.
+  ![screenshot](image/hugo.png)
 
 
 
